@@ -145,14 +145,6 @@ Reference: [PubMed NCBI](https://pubmed.ncbi.nlm.nih.gov/)
 
 This application is designed as an informational tool and should not replace professional medical advice. Always consult with qualified healthcare professionals for diagnosis and treatment decisions.
 
-## 📝 License
-
-[Specify your license here]
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
-
-## 📞 Support
-
-For issues or questions, please open an issue in the repository or contact the development team.
