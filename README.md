@@ -1,4 +1,4 @@
-# Clinisight
+# Medical-diagnosis-ai-MCP
 
 An intelligent medical diagnosis assistant that combines symptom extraction, AI-powered diagnosis suggestions, and peer-reviewed research integration from PubMed to provide comprehensive medical insights.
 
